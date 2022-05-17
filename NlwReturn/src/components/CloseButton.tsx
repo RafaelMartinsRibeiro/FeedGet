@@ -7,7 +7,7 @@ export function CloseButton() {
       className="absolute top-5 right-5 text-zinc-400 hover:text-zinc-100"
       title="Fechar formulário de Feedback"
     >
-      <X className="w-4 h-4" />
+      <X weight="bold" className="w-4 h-4" />
     </Popover.Button>
   );
 }
