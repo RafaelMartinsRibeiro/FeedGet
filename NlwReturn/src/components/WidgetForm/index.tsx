@@ -55,7 +55,7 @@ export function WidgetForm() {
       <footer className="text-xs text-neutral-400">
         Feito com ♥ por{" "}
         <a
-          className="underline underline-offset-2 hover:text-brand-500"
+          className="text-brand-500 hover:text-brand-300 transition-colors"
           href="https://github.com/RafaelMartinsRibeiro"
         >
           Rafael
