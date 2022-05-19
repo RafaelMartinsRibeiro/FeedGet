@@ -1,16 +1,3 @@
-<h1 align="center">
-	FeedGet
-</h1>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?color=blueviolet">
 
@@ -33,7 +20,22 @@
 
 
 <h1 align="center">
-  <img alt="FeedGet" src=".github/preview1.png" width="100%">
+  <img alt="FeedGet" src=".github/preview1.png" width="100%"> 
+</h1>
+
+
+<p align="center">
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-licença">Licença</a>
+  </p>
+
+
+<h1 align="center">
+  <img alt="FeedGetGif" src=".github/previewGif.gif" width="100%">
 </h1>
 
 
@@ -54,10 +56,10 @@ FeedGet é um aplicativo de feedbacks, desenvolvido 100% responsivo para ser int
 
 ## 🌟 Features
 
--   [ ] Categorias de feedbacks, sendo possível adicionar/remover de forma fácil.
--   [ ] 100% responsivo em resoluções até 4k.
--   [ ] Captura de tela automática, sem a necessidade de salvar uma imagem.
--   [ ] Projeto 100% acessível sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
+-   [x] Categorias de feedbacks, sendo possível adicionar/remover de forma fácil.
+-   [x] 100% responsivo em resoluções até 4k.
+-   [x] Captura de tela automática, sem a necessidade de salvar uma imagem.
+-   [x] Projeto 100% acessível sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
 
 
 ## 🎨 Layout
