@@ -1,37 +1,95 @@
-## 🚧 In progress... 🚧
-## Available Scripts
+<h1 align="center">
+	FeedGet
+</h1>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### `npm start`
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?color=blueviolet">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?color=blueviolet">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <a href="https://www.linkedin.com">
+    <img alt="Made by Rafael Martins" src="https://img.shields.io/badge/made%20by-Rafael Martins-blueviolet">
+  </a>
 
-### `npm test`
+  <a href="https://github.com/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?color=blueviolet">
+  </a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 
-### `npm run build`
+   <a href="https://github.com/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?style=social">
+  </a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">
+  <img alt="FeedGet" src=".github/preview1.png" width="100%">
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 🚀 Tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [TypeScript](https://www.typescriptlang.org)
+- [React](https://reactjs.org)
+- [TailwindCSS](https://tailwindcss.com)
+- [Vite](https://vitejs.dev)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 💻 Projeto
+
+FeedGet é um aplicativo de feedbacks, desenvolvido 100% responsivo para ser integrado a qualquer aplicação web ou mobile. O usuário consegue além de escolher a categoria de seu feedback, também pode enviar uma mensagem personalizada junto a uma captura de tela automática. 
+
+
+## 🌟 Features
+
+-   [ ] Categorias de feedbacks, sendo possível adicionar/remover de forma fácil.
+-   [ ] 100% responsivo em resoluções até 4k.
+-   [ ] Captura de tela automática, sem a necessidade de salvar uma imagem.
+-   [ ] Projeto 100% acessível sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
+
+
+## 🎨 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Wvro4wRJXn4Onm9GHX5DFi/Feedback-Widget-(Community)?node-id=100%3A3925). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+
+### 🧭 Rodando a aplicação
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd NlwReturn
+# Instale as dependências
+$ npm install
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
