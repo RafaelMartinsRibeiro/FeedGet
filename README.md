@@ -3,7 +3,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelMartinsRibeiro/FeedbackWidget-NlwReturn?color=blueviolet">
 
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/rafael-martins-ribeiro/">
     <img alt="Made by Rafael Martins" src="https://img.shields.io/badge/made%20by-Rafael Martins-blueviolet">
   </a>
 
